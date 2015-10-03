@@ -1,2 +1,2 @@
 # FakeATMMachine
-More practice, I'm making a fake ATM app
+Java practice, fake ATM app
